@@ -3,7 +3,7 @@ heroText: 城市分析平台
 home: true
 heroImage: /imgs/icon.png
 actionText: 快速上手 →
-actionLink: /start/
+actionLink: /zh/start/
 features:
 - title: 数据管理
   details: 支持用户上传自己的建筑物数据

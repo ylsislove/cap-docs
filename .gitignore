@@ -10,3 +10,10 @@ npm-debug.log
 yarn-error.log
 
 # End of https://www.toptal.com/developers/gitignore/api/vuejs
+
+*/node_modules
+**/node_modules
+deploy.sh
+.temp
+.cache
+docSearch
