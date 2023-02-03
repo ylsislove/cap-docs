@@ -1,4 +1,3 @@
-# 开始使用
-## CAP 简介
+# Get Started
+## CAP introduction
 待更
-
