@@ -39,9 +39,9 @@ module.exports = {
           },
         },
         nav: [
-          { text: "Get Started", link: "/en/start/" },
-          { text: "Configuration Guide", link: "/en/guide/" },
-          { text: "Advanced", link: "/en/advance/" },
+          { text: "Get Started", link: "/start/" },
+          { text: "Configuration Guide", link: "/guide/" },
+          { text: "Advanced", link: "/advance/" },
           { text: "Online", link: "https://aayu.today" },
         ],
       },

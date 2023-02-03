@@ -16,6 +16,6 @@
     "url": "https://github.com/ylsislove/cap-docs"
   },
   "devDependencies": {
-    "vuepress": "^1.9.8"
+    "vuepress": "1.9.8"
   }
 }
